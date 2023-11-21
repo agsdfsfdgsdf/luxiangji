@@ -1,0 +1,319 @@
+2023-08-28 09:46:41.331 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 14900 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 09:46:41.333 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 09:46:41.750 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 09:46:41.758 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 09:46:41.776 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2023-08-28 09:46:41.829 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 09:46:42.023 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4098 (http)
+2023-08-28 09:46:42.029 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 09:46:42.029 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 09:46:42.071 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 09:46:42.071 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 709 ms
+2023-08-28 09:46:42.473 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 4098 (http) with context path ''
+2023-08-28 09:46:42.479 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Started VideoApplication in 1.375 seconds (JVM running for 2.018)
+2023-08-28 09:53:00.775 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 24112 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 09:53:00.778 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 09:53:02.400 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 09:53:02.401 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 09:53:02.416 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2023-08-28 09:53:02.464 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 09:53:02.646 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4098 (http)
+2023-08-28 09:53:02.651 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 09:53:02.652 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 09:53:02.696 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 09:53:02.696 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1889 ms
+2023-08-28 09:53:03.180 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 4098 (http) with context path ''
+2023-08-28 09:53:03.193 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Started VideoApplication in 2.635 seconds (JVM running for 3.314)
+2023-08-28 09:55:03.862 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 28908 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 09:55:03.865 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 09:55:04.839 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 09:55:04.841 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 09:55:04.871 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 18 ms. Found 0 Redis repository interfaces.
+2023-08-28 09:55:04.950 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 09:55:05.192 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4098 (http)
+2023-08-28 09:55:05.198 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 09:55:05.198 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 09:55:05.259 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 09:55:05.259 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1294 ms
+2023-08-28 09:55:05.820 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 4098 (http) with context path ''
+2023-08-28 09:55:05.828 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Started VideoApplication in 2.835 seconds (JVM running for 4.597)
+2023-08-28 09:55:50.230 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 32692 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 09:55:50.232 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 09:55:50.648 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 09:55:50.649 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 09:55:50.668 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2023-08-28 09:55:50.723 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 09:55:50.907 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-08-28 09:55:50.916 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 09:55:50.916 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 09:55:50.980 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 09:55:50.980 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 720 ms
+2023-08-28 09:55:51.495 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 4090 (http) with context path ''
+2023-08-28 09:55:51.501 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Started VideoApplication in 1.49 seconds (JVM running for 2.177)
+2023-08-28 09:57:43.344 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 4704 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 09:57:43.346 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 09:57:44.811 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 09:57:44.812 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 09:57:44.831 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2023-08-28 09:57:44.880 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 09:57:45.041 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-08-28 09:57:45.047 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 09:57:45.047 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 09:57:45.104 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 09:57:45.104 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1727 ms
+2023-08-28 09:57:45.547 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 4090 (http) with context path ''
+2023-08-28 09:57:45.552 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Started VideoApplication in 2.47 seconds (JVM running for 3.524)
+2023-08-28 09:58:41.178 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 15588 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 09:58:41.181 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 09:58:41.555 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 09:58:41.556 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 09:58:41.574 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2023-08-28 09:58:41.626 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 09:58:41.799 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-08-28 09:58:41.804 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 09:58:41.804 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 09:58:41.853 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 09:58:41.853 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 641 ms
+2023-08-28 09:58:42.015 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2023-08-28 09:58:42.026 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-28 09:59:12.135 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 32604 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 09:59:12.137 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 09:59:12.492 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 09:59:12.493 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 09:59:12.511 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2023-08-28 09:59:12.560 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 09:59:12.717 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-08-28 09:59:12.722 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 09:59:12.722 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 09:59:12.770 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 09:59:12.770 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 607 ms
+2023-08-28 09:59:13.244 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 4090 (http) with context path ''
+2023-08-28 09:59:13.252 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Started VideoApplication in 1.336 seconds (JVM running for 1.957)
+2023-08-28 14:08:19.557 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 33292 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 14:08:19.559 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 14:08:20.022 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 14:08:20.023 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 14:08:20.043 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2023-08-28 14:08:20.100 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 14:08:20.287 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-08-28 14:08:20.291 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 14:08:20.291 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 14:08:20.344 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 14:08:20.344 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 762 ms
+2023-08-28 14:08:20.795 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 4090 (http) with context path ''
+2023-08-28 14:08:20.800 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Started VideoApplication in 1.508 seconds (JVM running for 2.251)
+2023-08-28 15:07:45.388 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 5684 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 15:07:45.390 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 15:07:45.773 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 15:07:45.774 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 15:07:45.794 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2023-08-28 15:07:45.850 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 15:07:46.013 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-08-28 15:07:46.017 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 15:07:46.018 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 15:07:46.066 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 15:07:46.066 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 646 ms
+2023-08-28 15:07:46.466 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 4090 (http) with context path ''
+2023-08-28 15:07:46.473 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Started VideoApplication in 1.318 seconds (JVM running for 2.03)
+2023-08-28 15:08:10.001 [http-nio-4090-exec-3] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-28 15:08:10.002 [http-nio-4090-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-08-28 15:08:10.004 [http-nio-4090-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-08-28 15:10:47.728 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 31728 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 15:10:47.730 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 15:10:48.120 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 15:10:48.122 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 15:10:48.143 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+2023-08-28 15:10:48.200 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 15:10:48.393 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-08-28 15:10:48.398 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 15:10:48.398 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 15:10:48.456 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 15:10:48.456 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 700 ms
+2023-08-28 15:10:48.920 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 4090 (http) with context path ''
+2023-08-28 15:10:48.925 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Started VideoApplication in 1.41 seconds (JVM running for 2.094)
+2023-08-28 15:10:52.879 [http-nio-4090-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-28 15:10:52.879 [http-nio-4090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-08-28 15:10:52.880 [http-nio-4090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-08-28 15:15:03.813 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 26868 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 15:15:03.815 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 15:15:04.211 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 15:15:04.212 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 15:15:04.231 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2023-08-28 15:15:04.282 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 15:15:04.448 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-08-28 15:15:04.452 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 15:15:04.452 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 15:15:04.502 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 15:15:04.502 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 653 ms
+2023-08-28 15:15:04.905 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 4090 (http) with context path ''
+2023-08-28 15:15:04.911 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Started VideoApplication in 1.313 seconds (JVM running for 2.091)
+2023-08-28 15:15:08.261 [http-nio-4090-exec-3] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-28 15:15:08.261 [http-nio-4090-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-08-28 15:15:08.262 [http-nio-4090-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2023-08-28 15:24:39.696 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 35148 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 15:24:39.698 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 15:24:40.144 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 15:24:40.145 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 15:24:40.164 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10 ms. Found 0 Redis repository interfaces.
+2023-08-28 15:24:40.226 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 15:24:50.134 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-08-28 15:24:50.140 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 15:24:50.140 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 15:24:50.189 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 15:24:50.189 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 10463 ms
+2023-08-28 15:24:50.689 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 4090 (http) with context path ''
+2023-08-28 15:24:50.696 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Started VideoApplication in 11.219 seconds (JVM running for 12.37)
+2023-08-28 15:24:57.679 [http-nio-4090-exec-4] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-28 15:24:57.679 [http-nio-4090-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-08-28 15:24:57.681 [http-nio-4090-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2023-08-28 15:26:21.106 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 27176 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 15:26:21.107 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 15:26:21.545 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 15:26:21.547 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 15:26:21.571 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16 ms. Found 0 Redis repository interfaces.
+2023-08-28 15:26:21.639 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 15:26:21.815 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-08-28 15:26:21.819 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 15:26:21.819 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 15:26:21.870 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 15:26:21.870 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 735 ms
+2023-08-28 15:26:21.896 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2023-08-28 15:26:21.905 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-28 15:28:03.554 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 32848 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 15:28:03.556 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 15:28:04.004 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 15:28:04.005 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 15:28:04.031 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16 ms. Found 0 Redis repository interfaces.
+2023-08-28 15:28:04.098 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 15:28:04.288 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-08-28 15:28:04.291 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 15:28:04.292 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 15:28:04.342 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 15:28:04.342 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 760 ms
+2023-08-28 15:28:04.761 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 4090 (http) with context path ''
+2023-08-28 15:28:04.768 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Started VideoApplication in 1.422 seconds (JVM running for 2.117)
+2023-08-28 15:29:14.598 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 24488 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 15:29:14.600 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 15:29:15.003 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 15:29:15.004 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 15:29:15.021 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2023-08-28 15:29:15.142 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 15:29:15.320 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-08-28 15:29:15.324 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 15:29:15.324 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 15:29:15.369 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 15:29:15.369 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 741 ms
+2023-08-28 15:29:15.396 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2023-08-28 15:29:15.405 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-28 15:54:28.813 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 19256 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 15:54:28.814 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 15:54:29.177 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 15:54:29.178 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 15:54:29.198 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2023-08-28 15:54:29.247 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 15:54:29.409 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-08-28 15:54:29.413 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 15:54:29.414 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 15:54:29.460 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 15:54:29.460 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 622 ms
+2023-08-28 15:54:29.485 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2023-08-28 15:54:29.494 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-28 15:55:19.039 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 25552 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 15:55:19.041 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 15:55:19.443 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 15:55:19.444 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 15:55:19.462 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2023-08-28 15:55:19.512 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 15:55:19.680 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-08-28 15:55:19.685 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 15:55:19.685 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 15:55:19.735 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 15:55:19.735 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 668 ms
+2023-08-28 15:55:19.760 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2023-08-28 15:55:19.768 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-28 15:58:13.126 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 19852 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 15:58:13.129 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 15:58:13.567 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 15:58:13.568 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 15:58:13.587 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2023-08-28 15:58:13.637 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 15:58:13.794 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-08-28 15:58:13.799 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 15:58:13.799 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 15:58:13.849 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 15:58:13.849 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 691 ms
+2023-08-28 15:58:13.875 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2023-08-28 15:58:13.884 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-28 15:58:34.309 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 25000 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 15:58:34.311 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 15:58:34.712 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 15:58:34.713 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 15:58:34.732 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2023-08-28 15:58:34.876 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 15:58:35.044 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-08-28 15:58:35.048 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 15:58:35.048 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 15:58:35.091 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 15:58:35.092 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 752 ms
+2023-08-28 15:58:35.124 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2023-08-28 15:58:35.133 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-28 16:01:07.741 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 36772 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 16:01:07.742 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 16:01:08.157 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 16:01:08.158 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 16:01:08.181 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+2023-08-28 16:01:08.324 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 16:01:08.541 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-08-28 16:01:08.544 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 16:01:08.545 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 16:01:08.588 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 16:01:08.588 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 820 ms
+2023-08-28 16:01:08.620 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2023-08-28 16:01:08.630 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-28 16:08:03.019 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 25692 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 16:08:03.021 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 16:08:03.500 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 16:08:03.501 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 16:08:03.520 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2023-08-28 16:08:03.568 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 16:08:03.729 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-08-28 16:08:03.734 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 16:08:03.734 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 16:08:03.782 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 16:08:03.782 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 732 ms
+2023-08-28 16:08:03.807 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2023-08-28 16:08:03.816 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-28 16:08:21.035 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 24956 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-08-28 16:08:21.037 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-08-28 16:08:21.429 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-28 16:08:21.430 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-28 16:08:21.448 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2023-08-28 16:08:21.499 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-08-28 16:08:21.663 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-08-28 16:08:21.668 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-08-28 16:08:21.668 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-08-28 16:08:21.716 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-08-28 16:08:21.717 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 654 ms
+2023-08-28 16:08:22.140 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 4090 (http) with context path ''
+2023-08-28 16:08:22.147 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Started VideoApplication in 1.327 seconds (JVM running for 2.029)
+2023-08-28 16:08:29.713 [http-nio-4090-exec-6] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-28 16:08:29.713 [http-nio-4090-exec-6] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-08-28 16:08:29.713 [http-nio-4090-exec-6] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms

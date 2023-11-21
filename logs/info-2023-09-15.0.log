@@ -1,0 +1,16 @@
+2023-09-15 11:45:24.820 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Starting VideoApplication using Java 1.8.0_201 on LAPTOP-7B0SGNS2 with PID 27584 (D:\DaxieCloudTest\target\classes started by m1771 in D:\DaxieCloudTest)
+2023-09-15 11:45:24.823 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - No active profile set, falling back to default profiles: default
+2023-09-15 11:45:27.949 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-09-15 11:45:27.951 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-09-15 11:45:27.968 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2023-09-15 11:45:28.023 [main] INFO  o.s.c.annotation.ConfigurationClassPostProcessor - Cannot enhance @Configuration bean definition 'com.github.lianjiatech.retrofit.spring.boot.config.RetrofitProcessorAutoConfiguration' since its singleton instance has been created too early. The typical cause is a non-static @Bean method with a BeanDefinitionRegistryPostProcessor return type: Consider declaring such methods as 'static'.
+2023-09-15 11:45:28.216 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4090 (http)
+2023-09-15 11:45:28.221 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2023-09-15 11:45:28.221 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2023-09-15 11:45:28.273 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-09-15 11:45:28.273 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3412 ms
+2023-09-15 11:45:28.931 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 4090 (http) with context path ''
+2023-09-15 11:45:28.941 [main] INFO  c.deyi.daxie.cloud.service.video.VideoApplication - Started VideoApplication in 4.436 seconds (JVM running for 5.369)
+2023-09-15 11:45:38.754 [http-nio-4090-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-09-15 11:45:38.755 [http-nio-4090-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-09-15 11:45:38.755 [http-nio-4090-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms

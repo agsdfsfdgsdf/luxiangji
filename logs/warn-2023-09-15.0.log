@@ -1,0 +1,1 @@
+2023-09-15 11:45:27.922 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.deyi.daxie.cloud.service.video]' package. Please check your configuration.
